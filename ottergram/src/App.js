@@ -12,6 +12,7 @@ function App() {
       <header className="header-component">
         <h1>Ottergram</h1>
       </header>
+      <h2 className="description-component">your favorite otters on the internet!</h2>
       <ul className="post-list">
         <li className="post-component">
           <button>
